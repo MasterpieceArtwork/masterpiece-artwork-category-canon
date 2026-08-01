@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you reference this category architecture or methodology, please cite using the canonical citation format."
+authors:
+  - family-names: Hersberger
+    given-names: Ela
+  - family-names: Hersberger
+    given-names: Larry
+title: "Masterpiece Artwork Category Canon™ v2.1"
+version: 2.1.0
+date-released: 2026-07-15
+url: "https://github.com/masterpiece-artwork/category-canon"
+abstract: "Proprietary category architecture, voice standards, and commercial pipeline for Luxury Fine Art Portrait Photography and Commissioned Heirloom Portrait Artwork."
